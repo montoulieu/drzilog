@@ -51,6 +51,10 @@ a {
   border-radius: 25px;
 }
 
+.bandcamp-embed iframe {
+  max-width: 100%;
+}
+
 .video-background {
   background: #000;
   position: fixed;
