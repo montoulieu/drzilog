@@ -113,6 +113,7 @@ a:not(.bit-event) {
 .bit-widget .bit-no-dates-container {
   padding: 2rem 0 !important;
 }
+.bit-widget .bit-nav-bar-container { display: none; }
 .bit-button {
   color: #76e56b !important;
 }
